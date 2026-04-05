@@ -72,12 +72,19 @@ const staff = [
         foto:"",
     },
     {
+        name: "Noufal Izdihar",
+        division: "PIP",
+        batch: "2026",
+        role: "Member",
+        github: "Noufalpali",
+        foto:"",
+    },
+    {
         name: "Muhammad Fachry Imthiyaz",
         division: "PTI",
         batch: "2026",
         role: "Member",
         github: "fachry",
         foto:"foto/fachry.png",
-
     },
 ];
