@@ -53,7 +53,7 @@ const staff = [
         batch: "2026",
         role: "Member",
         github: "Urielele",
-        foto:"foto/beemo.png",
+        foto:"foto/beemo.jpg",
     },
     {
 
