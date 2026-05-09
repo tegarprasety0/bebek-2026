@@ -34,7 +34,7 @@ const staff = [
     {
         name: "M. Aditia Putra Pratama",
         division: "PTI",
-        batch: "2025",
+        batch: "2026",
         role: "Member",
         github: "aditia-prtm",
         foto:"",
@@ -56,6 +56,7 @@ const staff = [
         foto:"foto/beemo.png",
     },
     {
+
         name: "Tegar Prasetyo",
         division: "PTI",
         batch: "2026",
@@ -69,5 +70,37 @@ const staff = [
         role: "Member",
         github: "qiuFrrl",
         foto:"",
+    },
+    {
+        name: "M Radittyo Kalin",
+        division: "PTI",
+        batch: "2026",
+        role: "Member",
+        github: "raditkal",
+        foto:"",
+    },
+    {
+        name: "Noufal Izdihar",
+        division: "PIP",
+        batch: "2026",
+        role: "Member",
+        github: "Noufalpali",
+        foto:"",
+    },
+    {
+        name: "Muhammad Fhanus Meitama Puta",
+        division: "PIP",
+        batch: "2026",
+        role: "Member",
+        github: "fhanus123",
+        foto:"",
+    },
+    {
+        name: "Muhammad Fachry Imthiyaz",
+        division: "PTI",
+        batch: "2026",
+        role: "Member",
+        github: "fachry",
+        foto:"foto/fachry.png",
     },
 ];
