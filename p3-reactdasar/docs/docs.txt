@@ -1,0 +1,2 @@
+react docs: https://react.dev/learn
+vite docs: https://vitejs.dev/guide/
